@@ -1,2 +1,2 @@
 # CS 2340 Project
- SpaceTrader Game for CS 2340
+ This is a project for CS 2340 named Space Trader
